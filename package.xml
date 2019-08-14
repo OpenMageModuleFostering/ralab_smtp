@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package>
+    <name>Ralab_SMTP</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">Open Software License (OSL)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Simple SMTP is the an open source magento extension to Authenticate with any SMTP Server.</summary>
+    <description>Simple SMTP  - Simple SMTP Authentication&#xD;
+&#xD;
+Simple SMTP Pro is a free open source SMTP solution for Magento. It supports all configuration types available in Zend_Mail.&#xD;
+&#xD;
+http://framework.zend.com/manual/current/en/modules/zend.mail.smtp.options.html&#xD;
+&#xD;
+This extension is completely Open Source.</description>
+    <notes>Support for sending email using all configuration types available in Zend Mail.&#xD;
+&#xD;
+Created by Kalpesh Balar, kalpeshbalar.com.</notes>
+    <authors><author><name>Kalpesh Balar</name><user>kalpeshbalar</user><email>kalpeshbalar@gmail.com</email></author></authors>
+    <date>2015-03-09</date>
+    <time>12:44:10</time>
+    <contents><target name="magecommunity"><dir name="Ralab"><dir name="Smtp"><dir name="Helper"><file name="Data.php" hash="efd398dda5a9608bde45b8de7ea8e1d7"/></dir><dir name="Model"><dir name="Email"><file name="Queue.php" hash="e47a8d070ae046d03185a89d75ffacc8"/><file name="Template.php" hash="e367f3eb54075118c28553ea8c41b25b"/></dir><file name="Email.php" hash="7972de4c6d5fc6ebc5710482d67f3a93"/><dir name="System"><dir name="Config"><dir name="Source"><dir name="Smtp"><file name="Authentication.php" hash="0216b4b20765b19051bf230096844983"/><file name="Ssl.php" hash="ed970cfb4d2c7064dbb9af15dccbccbf"/></dir></dir></dir></dir><file name="Template.php" hash="b8c04542b809acce613c212920bc03f8"/></dir><dir name="etc"><file name="config.xml" hash="842ba63ab476f868a27840a119146017"/><file name="system.xml" hash="f4e2a49d72360d9673fef9c904c87b82"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Ralab_Smtp.xml" hash="27509e8466b39932208a7fffc0e1dbeb"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
