@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Ralab_SMTP",
+    "name": "openmage-module-fostering\/ralab_smtp",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Simple SMTP is the an open source magento extension to Authenticate with any SMTP Server.",
     "authors": [

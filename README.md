@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Simple SMTP is the an open source magento extension to Authenticate with any SMTP Server.
